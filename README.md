@@ -2,6 +2,7 @@
 
 A RAG (Retrieval-Augmented Generation) system where users can upload documents or add web URLs, then ask questions and get answers with source citations.
 
+Loom link: https://www.loom.com/share/eda35b851a8e40bd9b331ec2a53768c4
 ### Core Features
 - **User Authentication**: Signup/login with JWT tokens and bcrypt password hashing
 - **Multi-tenant System**: Each user has their own isolated knowledge base
